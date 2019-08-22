@@ -11,7 +11,7 @@ The publication's abstract provides the problem statement for us: " ***...to pre
 ---
 
 
-The dataset has 20 variables (predictive features) for the target variable $y$ which is defined as the answer to the binary question: has the client subscribed a term deposit?
+The dataset has 20 variables (predictive features) for the target variable `y` which is defined as the answer to the binary question: has the client subscribed a term deposit?
 The dataset is based on "Bank Marketing" UCI dataset. [[2]](http://archive.ics.uci.edu/ml/datasets/Bank+Marketing)The data is enriched by the addition of five new social and economic features/attributes (national wide indicators from a ~10M population country, published by the Banco de Portugal and publicly available [[3]](https://www.bportugal.pt/estatisticasweb) online. Please note that the version of the dataset used for the project is not the same as the one used by Moro et.al. 2014. It does not include all attributes due to privacy concerns.
 <br>
 <br>
