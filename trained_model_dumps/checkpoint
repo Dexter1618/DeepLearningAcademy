@@ -1,2 +1,0 @@
-model_checkpoint_path: "myModel_with_VA_81_percent.ckpt"
-all_model_checkpoint_paths: "myModel_with_VA_81_percent.ckpt"
