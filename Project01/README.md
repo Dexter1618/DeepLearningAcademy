@@ -23,3 +23,7 @@ The zip file provided by Artem includes two fles:
  
  ---
 ***The binary classification goal is to predict if the client will subscribe a bank term deposit***
+
+# My Solution
+
+You may find my notebook rendered by Jupyter nbviewer [here](https://nbviewer.jupyter.org/github/Dexter1618/DeepLearningAcademy/blob/master/Project01/Predictive_Behavior_Modelling.ipynb).
