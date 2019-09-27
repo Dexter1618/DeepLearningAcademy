@@ -1,5 +1,3 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F_eOl8CDOxVz902TtxTbxDsW2O7UEDLe)
-
 # Problem statement discussion
 
 The project is based on the dataset used by Moro et al., 2014 [[1]](http://dx.doi.org/10.1016/j.dss.2014.03.001) in their publication: _S. Moro, P. Cortez and P. Rita. A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems_
