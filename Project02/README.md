@@ -29,7 +29,7 @@ ___The goal of the project, as set by the instructor is to train an Auto-Encoder
 
 <br>
 
-# 2 Decided scope of model evaluation
+# Decided scope of model evaluation
 
 
 ___If you are working with the dataset, as it is, without any special approaches,___
